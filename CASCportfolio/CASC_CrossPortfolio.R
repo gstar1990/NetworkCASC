@@ -1,4 +1,4 @@
-setwd("C:/Users/Gstar/Desktop/code/Code Cleaned/folder 2_revised")
+setwd("c:/~")
 packs = c("ggplot2","zoo","data.table")
 lapply(packs,library,character.only = TRUE)
 
