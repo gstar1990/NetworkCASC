@@ -19,7 +19,7 @@ Submitted : Thu, June 14 2018 by Li GUO
 
 Datafile : 
 
-Output : CASCSwcMemb.png, CASCMemNode.png
+Output : CASCSwcMemb.png, CASCMemNodes.png
 
 
 
@@ -27,7 +27,7 @@ Output : CASCSwcMemb.png, CASCMemNode.png
 
 ![Picture1](CASCSwcMemb.png)
 
-![Picture2](CASCMemNode.png)
+![Picture2](CASCMemNodes.png)
 
 ### R Code:
 ```r
