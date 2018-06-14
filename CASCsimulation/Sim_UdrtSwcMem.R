@@ -1,4 +1,4 @@
-setwd("C:/Users/Gstar/Desktop/code/niiuniiu")
+setwd("C:/~")
 pack  =  c("cluster", "combinat","expm","doParallel")
 #library(cluster)    : for function 'pam', i.e. k-medoids clustering 
 #library(combinat)   : for function 'permn'
