@@ -25,9 +25,9 @@ Output : CASCSwcMem.png, CASCMemNodes.png
 
 ```
 
-![Picture1](CASCSwcMem.png)
+![Picture1](CASCSwcMemb.png)
 
-![Picture2](CASCMemNodes.png)
+![Picture2](CASCMemNode.png)
 
 ### R Code:
 ```r
