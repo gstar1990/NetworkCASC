@@ -568,7 +568,7 @@ MisRate_ave_8 = unlist(lapply(res1, "[[", 4))
 plot(N, MisRate_ave_2, ylim=range(c(MisRate_ave_2, MisRate_ave_4,
                                     MisRate_ave_7, MisRate_ave_8)),
      typ="b", col="red", pch=8, lwd=1.5, lty="solid",
-     xlab="Misclustering Rate", ylab="Number of Nodes", main='Misclustering Rate with Time-varying Membership')
+     xlab="Number of Nodes", ylab="Misclustering Rate", main='Misclustering Rate with Time-varying Membership')
 lines(N, MisRate_ave_4, typ="b", col="blue", pch=15, lwd=1.5, lty="dashed")
 lines(N, MisRate_ave_7, typ="b", col="green", pch=3, lwd=1.5, lty="dotted")
 lines(N, MisRate_ave_8, typ="b", col="purple", pch=20, lwd=1.5, lty="dotdash")
