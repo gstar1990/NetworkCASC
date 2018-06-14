@@ -19,7 +19,7 @@ Submitted : Thu, June 14 2018 by Li GUO
 
 Datafile : 
 
-Output : CASCSwcMem.png, CASCMemNodes.png
+Output : CASCSwcMemb.png, CASCMemNode.png
 
 
 
